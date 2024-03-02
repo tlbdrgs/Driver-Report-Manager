@@ -1,0 +1,3 @@
+Dragos 3 3 2
+proba 100 6 50
+Andreea 6 6 5

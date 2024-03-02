@@ -1,0 +1,7 @@
+sun Dragos 5 5 true
+fog proba 4 4 false
+rain 123 6 7 false
+rock proba 3 3 true
+mud 123 10 10 true
+forest proba 99 6 true
+flori Andreea 5 6 false
